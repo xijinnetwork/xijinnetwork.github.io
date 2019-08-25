@@ -38,10 +38,10 @@
                     <input type="checkbox" id="drop">
 						<ul class="menu">
 							<li class="active"><a href="index.html">Home</a></li>
-							 <li class="mt-sm-3"><a href="#about" class="scroll">About</a></li>
-							 <li class="mt-sm-3"><a href="#gallery" class="scroll">Gallery</a></li>
-							<li class="mt-sm-3"><a href="#services" class="scroll">Services</a></li>
-							<li class="mt-sm-3"><a href="#news" class="scroll">News</a></li>
+							 <li class="mt-sm-3"><a href="#research" class="scroll">Research Area</a></li>
+							 <li class="mt-sm-3"><a href="#publications" class="scroll">Publication</a></li>
+							<li class="mt-sm-3"><a href="#projects" class="scroll">Project</a></li>
+							<li class="mt-sm-3"><a href="#services" class="scroll">Service</a></li>
                             <li class="mt-sm-3"><a href="#contact" class="scroll">Contact</a></li>
                         </ul>
 				</nav>
@@ -159,7 +159,7 @@
 				</div>
 			</div>
 			<div class="cpy-right text-left">
-				<p>Copyright © 2019.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a>
+				<p>Copyright © 2019.Xi Jin All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a>
 
 				</p>
 			</div>
