@@ -38,10 +38,10 @@
                     <input type="checkbox" id="drop">
 						<ul class="menu">
 							<li class="active"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html">Home</a></li>
-							 <li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#research" class="scroll">Research Area</a></li>
-							 <li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#publications" class="scroll">Publication</a></li>
-							<li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#projects" class="scroll">Project</a></li>
-							<li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#services" class="scroll">Service</a></li>
+							 <li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#about" class="scroll">About</a></li>
+							 <li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#gallery" class="scroll">Gallery</a></li>
+							<li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#services" class="scroll">Services</a></li>
+							<li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#news" class="scroll">News</a></li>
                             <li class="mt-sm-3"><a href="file:///C:/GitHub/xijinnetwork.github.io/index.html#contact" class="scroll">Contact</a></li>
                         </ul>
 				</nav>
