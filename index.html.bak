@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Home</title>
+    <title>Xi Jin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     <meta name="keywords" content="" />
@@ -27,8 +27,8 @@
 <body>
     <div class="sidenav">
 		<div class="side_top">
-			<img src="images/t3.jpg" alt="news image" class="img-fluid navimg">
-			<h1> Eu ac iaculis ac nunc nisi lorem <br>vulputate lorem neque cubilia ac in <br>adipiscing in curae</h1>
+			<img src="images/xjphoto.jpg" alt="xjphoto" class="img-fluid navimg" width="120">
+			<h1> Associate Professor <br>Shenyang Institute of Automation,<br>Cinese Academy of Sciences, China<br>xijin@ieee.org</h1>
 		</div>
 		<!-- header -->
 		<header>
@@ -55,7 +55,6 @@
                     <h2>Eu ac iaculis ac nunc nisi lorem
 					<br>vulputate lorem neque cubilia ac in.</h2>
 					<p class="banp mt-5">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
-					<a class="btn btn-primary mt-lg-5 mt-3 agile-link-bnr" href="#services" role="button">Learn More</a>
                 </div>
             </div>
         </div>
