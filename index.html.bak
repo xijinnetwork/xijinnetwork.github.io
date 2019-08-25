@@ -49,15 +49,15 @@
 		</header>
     </div>
     <div class="main" id="about">
-        <div class="banner-text-w3ls">
-            <div class="container">
-                <div class="mx-auto text-left">
-                    <h2>Eu ac iaculis ac nunc nisi lorem
-					<br>vulputate lorem neque cubilia ac in.</h2>
-					<p class="banp mt-5">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
-                </div>
+        <section class="slide-wrapper" id="research">
+        <!--div class="banner-text-w3ls"-->
+            <div class="container py-lg-5">
+                <!--div class="mx-auto text-left"-->
+                    <h3 class="w3_head mb-5">Research Areas</h3>
+					          <p class="banp mt-5">Time Sensitive Networks, 5G, Industrial Wireless Networks, Internet of Things, Cyber-Physical Systems</p>
+                <!--/div-->
             </div>
-        </div>
+           </section>
 		 <!-- Gallery -->
     <section class="gallery" id="gallery">
         <div class="container py-lg-5">
