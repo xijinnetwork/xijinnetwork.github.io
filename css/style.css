@@ -428,7 +428,7 @@ header {
 }
 .side_top {
     text-align: right;
-    font-size: 1.8em;
+    font-size: 1.5em;
     padding: 6em 2.5em 0;
 }
 .banner-text-w3ls {
@@ -512,7 +512,7 @@ h2.w3_head, h3.w3_head {
 h1.w3_head {
     font-weight: 400;
     color: #787878;
-    font-size: 2.0em;
+    font-size: 1.8em;
     letter-spacing: 0.075em;
     line-height: 1.35em;
 }
