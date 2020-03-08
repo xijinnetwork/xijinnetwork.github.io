@@ -37,7 +37,7 @@
     <div class="sidenav">
 		<div class="side_top">
 			<img src="images/xp.jpg" alt="xjphoto" class="img-fluid navimg" width="120"><br>
-			<font size=5.0em, color=#ffffff>Xi Jin,</font> <br> <font size=3.5em, color=#ffffff>Associate Professor <br>Shenyang Institute of Automation,<br>Cinese Academy of Sciences, China<br>xijin AT ieee DOT org</font>
+			<font size=5.0em, color=#ffffff>Xi Jin,</font> <br> <font size=3.5em, color=#ffffff>Ph.D., Associate Professor <br>Shenyang Institute of Automation,<br>Cinese Academy of Sciences, China<br>xijin AT ieee DOT org</font>
 		</div>
 		<!-- header -->
 		<header>
@@ -124,9 +124,9 @@
 			<!-- //services -->
 <section class="gallery" id="services">
         <div class="container py-lg-5">
-           <h1 class="w3_head mb-5">Reviewer and Secondary Reviewer</h1>
-           <p>IEEE Access, Sensors, IEEE Transactions on Industrial Informatics, ACM Transactions on Embedded Computing Systems, ACM Transactions on Design Automation of Electronic Systems, Wireless Networks, Journal of Systems Architecture, Journal of Systems and Software, IEEE Systems Journal, IEEE Sensors Journal, IEEE Transactions on Mobile Computing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, KSII Transactions on Internet and Information Systems, IET Science Measurement & Technology, Computer & Electrical Engineering, Telecmmunication Systems, International Journal of Distributed Sensor Networks ... </p>
-           <p>RTSS, RTAS, EMSOFT, ECRTS, DAC, Cyber, EUC, ICESS ...</p>
+           <h1 class="w3_head mb-5">Services</h1>
+           <p><b>TPC:</b>RTSS2019, VTC2020-Spring
+           <p><b>Reviewer and Secondary Reviewer:</b> IEEE Access, Sensors, IEEE Transactions on Industrial Informatics, ACM Transactions on Embedded Computing Systems, ACM Transactions on Design Automation of Electronic Systems, Wireless Networks, Journal of Systems Architecture, Journal of Systems and Software, IEEE Systems Journal, IEEE Sensors Journal, IEEE Transactions on Mobile Computing, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, KSII Transactions on Internet and Information Systems, IET Science Measurement & Technology, Computer & Electrical Engineering, Telecmmunication Systems, International Journal of Distributed Sensor Networks ... RTSS, RTAS, EMSOFT, ECRTS, DAC, Cyber, EUC, ICESS ...</p>
          </div>
        </section>
 <!-- contact -->
@@ -152,7 +152,7 @@
 				<h3 class="w3_head mb-5">Contact</h3>
 					<ul class="footer-bottom-list">
 							<li>
-								<span class="fa fa-map-marker"></span> #114 Nanta Street, Shenhe District
+								<span class="fa fa-map-marker"></span> #114 Nanta Street, Shenhe District,
 								<span> Shenyang, China </span>
 								
 							</li>
