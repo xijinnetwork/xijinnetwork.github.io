@@ -37,7 +37,7 @@
     <div class="sidenav">
 		<div class="side_top">
 			<img src="images/xp.jpg" alt="xjphoto" class="img-fluid navimg" width="120"><br>
-			<font size=3.5em, color=#ffffff>Xi Jin, Associate Professor <br>Shenyang Institute of Automation,<br>Cinese Academy of Sciences, China<br>xijin AT ieee DOT org</font>
+			<font size=5.0em, color=#ffffff>Xi Jin,</font> <br> <font size=3.5em, color=#ffffff>Associate Professor <br>Shenyang Institute of Automation,<br>Cinese Academy of Sciences, China<br>xijin AT ieee DOT org</font>
 		</div>
 		<!-- header -->
 		<header>
@@ -131,9 +131,9 @@
        </section>
 <!-- contact -->
 	 <section class="wedo" id="contact">
-			<h3 class="w3_head mb-5">Get In Touch </h3>
+			<!--h3 class="w3_head mb-5">Get In Touch </h3-->
 		   <div class="row mt-4">
-			   <div class="col-lg-7 contact_grid_right">
+			   <!--div class="col-lg-7 contact_grid_right">
 					<form action="file:///C:/GitHub/xijinnetwork.github.io/index.html#" method="post">
 						<div class="row contact_top">
 							<div class="col-sm-6">
@@ -147,9 +147,9 @@
 							<textarea name="Message" onfocus="this.value = &#39;&#39;;" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Message...&#39;;}" required="">Message...</textarea>
 							<input type="submit" class="btn" value="Send Message">
 					</form>
-				</div>
+				</div-->
 				<div class="col-lg-5 contact_grid_left">
-				<h3 class="w3_head mb-5">Locate Us </h3>
+				<h3 class="w3_head mb-5">Contact</h3>
 					<ul class="footer-bottom-list">
 							<li>
 								<span class="fa fa-map-marker"></span> #114 Nanta Street, Shenhe District
@@ -168,7 +168,7 @@
 				</div>
 			</div>
 			<div class="cpy-right text-left">
-				<p>Copyright © 2019.Xi Jin All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a>
+				<p>Copyright © 2020. Xi Jin All rights reserved. More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a>
 
 				</p>
 			</div>
