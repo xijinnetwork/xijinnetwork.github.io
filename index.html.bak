@@ -10,7 +10,7 @@
 
   gtag('config', 'G-5HRNDXWB3C');
 </script>	
-    <title>Xi Jin</title>
+    <title>Xi Jin's scholar homepage</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     <meta name="keywords" content="" />
@@ -71,7 +71,8 @@
         <div class="container py-lg-5">
            <h1 class="w3_head mb-5">Publications</h1>
           <p>1. <b>Xi Jin</b>, ..., ... Time Sensitive Networks..., submitted, 2020.</p>
-			 		<p>2. <b>Xi Jin</b>, ..., ... scheduling for Time Sensitive Networks..., submitted, 2019.</p>
+			 		<p>2. <b>Xi Jin</b>, Changqing Xia, Nan Guan, Chi Xu, Dong Li, Yue Yin, Peng Zeng , Real-Time Scheduling of Massive Data in Time Sensitive Networks With a Limited Number of Schedule Entries, <i>IEEE Access</i>, 2020.</p>
+			 		<p>3. Junqin Huang, Linghe Kong, Hong-Ning Dai, Weiping Ding, Long Cheng, Guihai Cheng, <b>Xi Jin</b>, Peng Zeng, Blockchain Based Mobile Crowd Sensing in Industrial Systems, <i> IEEE Transactions on Industrial Informatics</i>, 2020</p>
 <p>3. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Chi Xu, Peng Zeng, Heterogeneous Slot Scheduling for Real-time Industrial Wireless Sensor Networks, <i>Computer Networks</i>, 2019. <a href="papers/Xia_CN19.pdf">[PDF]</a></p>
 <p>4. Peng Zeng, Zhaowei Wang, Zhengyi Jia, Linghe Kong, Dong Li, <b>Xi Jin</b>, Time-slotted software-defined industrial ethernet for real-time quality of service in industriay 4.0, <i>Future Generation Computer Systems</i>, 2019. <a href="papers/Wang_FGCS19.pdf">[PDF]</a></p>
 <p>5. Huiting Xu, <b>Xi Jin</b>, Fanxin Kong, Qingxu Deng, Two Level Colocation Demand Response with Renewable Energy, <i>IEEE Transactions on Sustainable Computing</i>, 2019. <a href="papers/Xu_TSUSC19.pdf">[PDF]</a></p>
