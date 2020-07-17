@@ -343,7 +343,7 @@ li > a:only-child:after {
 .sidenav {
 	height: 100%;
 	width: 500px;
-	position: fixed;
+	position: relative;  /*xi jin: fixed - relative*/
 	z-index: 1;
 	top: 0;
 	left: 0;
@@ -503,7 +503,14 @@ p.newsp {
 }
 h2.w3_head, h3.w3_head {
     font-weight: 400;
-    color: #ffffff;
+    color: #787878;
+    font-size: 1.5em;
+    letter-spacing: 0.075em;
+    line-height: 1.35em;
+}
+h1.w3_head{
+    font-weight: 400;
+    color: #787878;
     font-size: 1.5em;
     letter-spacing: 0.075em;
     line-height: 1.35em;
