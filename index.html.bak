@@ -74,8 +74,8 @@ var _hmt = _hmt || [];
             <div class="container py-lg-5">
                 <!--div class="mx-auto text-left"-->
                     <h1 class="w3_head mb-5">About me</h1>
-                   <p>I’m currently a Professor at the Shenyang Institute of Automation, Chinese Academy of Sciences, China. I received my Ph.D. in Computer Science from the Northeastern University in 2013 under the supervision of <a href="http://www.neu-rtes.org/">Prof. Qingxu Deng</a>.</p>
-                   <p>My research areas include 5G, Time Sensitive Networks, Industrial Wireless Networks, Internet of Things and Cyber-Physical Systems.</p>
+                   <p><b>Short Bio</b>: I’m currently a Professor at the Shenyang Institute of Automation, Chinese Academy of Sciences, China. I received my Ph.D. in Computer Science from the Northeastern University in 2013 under the supervision of <a href="http://www.neu-rtes.org/">Prof. Qingxu Deng</a>.</p>
+                   <p><b>Research areas</b>: 5G, Time Sensitive Networks, Industrial Wireless Networks, Internet of Things and Cyber-Physical Systems.</p>
                 <!--/div-->
             </div>
            </section>
