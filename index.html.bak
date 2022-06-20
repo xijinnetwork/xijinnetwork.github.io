@@ -47,7 +47,7 @@ var _hmt = _hmt || [];
     <div class="sidenav">
 		<div class="side_top">
 			<img src="images/xp.jpg" alt="xjphoto" class="img-fluid navimg" width="120"><br>
-			<font size=5.0em, color=#ffffff>Xi Jin,</font> <br> <font size=3.5em, color=#ffffff>Ph.D., Professor <br>Shenyang Institute of Automation,<br>Cinese Academy of Sciences, China<br>xijin AT ieee DOT org</font>
+			<font size=5.0em, color=#ffffff>Xi Jin,</font> <br> <font size=3.5em, color=#ffffff>Ph.D., Professor <br>Shenyang Institute of Automation,<br>Chinese Academy of Sciences, China<br>xijin AT ieee DOT org</font>
 		</div>
 		<!-- header -->
 		<header>
@@ -57,7 +57,8 @@ var _hmt = _hmt || [];
                     <input type="checkbox" id="drop">
 						<ul class="menu">
 							<li class="active"><a href="index.html">Home</a></li>
-							 <li class="mt-sm-3"><a href="#research" class="scroll">Research Area</a></li>
+							 <li class="mt-sm-3"><a href="#me" class="scroll">About me</a></li>
+							 <li class="mt-sm-3"><a href="#news" class="scroll">News</a></li>
 							 <li class="mt-sm-3"><a href="#publications" class="scroll">Publication</a></li>
 							<li class="mt-sm-3"><a href="#projects" class="scroll">Project</a></li>
 							<li class="mt-sm-3"><a href="#links" class="scroll">Links</a></li>
@@ -68,12 +69,28 @@ var _hmt = _hmt || [];
 		</header>
     </div>
     <div class="main" id="about">
-        <section class="slide-wrapper" id="research">
+        <section class="gallery" id="me">
         <!--div class="banner-text-w3ls"-->
             <div class="container py-lg-5">
                 <!--div class="mx-auto text-left"-->
-                    <h1 class="w3_head mb-5">Research Areas</h1>
-					          <p class="banp mt-5">5G, Time Sensitive Networks, Industrial Wireless Networks, Internet of Things, Cyber-Physical Systems</p>
+                    <h1 class="w3_head mb-5">About me</h1>
+                   <p>I’m currently a Professor at the Shenyang Institute of Automation, Chinese Academy of Sciences, China. I received my Ph.D. in Computer Science from the Northeastern University in 2013 under the supervision of <a href="http://www.neu-rtes.org/">Prof. Qingxu Deng</a>.</p>
+                   <p>My research areas include 5G, Time Sensitive Networks, Industrial Wireless Networks, Internet of Things and Cyber-Physical Systems.</p>
+                <!--/div-->
+            </div>
+           </section>
+          <section class="slide-wrapper" id="news">
+        <!--div class="banner-text-w3ls"-->
+            <div class="container py-lg-5">
+                <!--div class="mx-auto text-left"-->
+                    <h1 class="w3_head mb-5">News</h1>
+					          <p><b>[Service]</b> Serve as the publicity chair of <a href="http://www.ieee-cybermatics.org/2022/icess/">ICESS 2022</a>. Welcome to submit your work!</p>
+										<p><b>[Service]</b> Serve as the guest editor of <a href="https://www.mdpi.com/journal/applsci/special_issues/industrial_internet">[Applied Sciences] Special Issue "Real-Time Systems and Industrial Internet of Things"</a>. Welcome to submit your work!</p>
+										<p><b>[Paper]</b> A paper is accepted in Mathematics, 2022.</p>
+										<p><b>[News]</b> Became a senior member of China Computer Federation (CCF), 2022.</p>
+										<p><b>[News]</b> Became an excellent member of Youth Innovation Promotion Association of Chinese Academy of Sciences, 2021.</p>
+										<p><b>[Talk]</b> Real-time scheduling of industrial wireless networks based on multi-task scheduling theory [CNCC 2021]</p>
+										<p><b>[Paper]</b> A paper is accepted in IEEE Internet of Things Journal, 2021.</p>
                 <!--/div-->
             </div>
            </section>
@@ -88,19 +105,19 @@ var _hmt = _hmt || [];
 			 		<p>6. Changqing Xia, <b>Xi Jin</b>, Chi Xu, Yan Wang, Peng Zeng, Real-time scheduling under heterogeneous routing for industrial Internet of Things, <i>Computers and Electrical Engineering</i>, 86:1-11, 2020.</p>
 			 		<p>7. Qing Li, Dong Li, <b>Xi Jin</b>, Qizhao Wang, Peng Zeng, A Simple and Efficient Time-Sensitive Networking Traffic Scheduling Method for Industrial Scenarios, <i>Elecronics</i>, 9(12):1-19, 2020.</p>
 			 		<p>8. Junqin Huang, Linghe Kong, Hong-Ning Dai, Weiping Ding, Long Cheng, Guihai Cheng, <b>Xi Jin</b>, Peng Zeng, Blockchain Based Mobile Crowd Sensing in Industrial Systems, <i> IEEE Transactions on Industrial Informatics</i>, 2020</p>
-<p>9. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Chi Xu, Peng Zeng, Heterogeneous Slot Scheduling for Real-time Industrial Wireless Sensor Networks, <i>Computer Networks</i>, 2019. <a href="papers/Xia_CN19.pdf">[PDF]</a></p>
-<p>10. Peng Zeng, Zhaowei Wang, Zhengyi Jia, Linghe Kong, Dong Li, <b>Xi Jin</b>, Time-slotted software-defined industrial ethernet for real-time quality of service in industriay 4.0, <i>Future Generation Computer Systems</i>, 2019. <a href="papers/Wang_FGCS19.pdf">[PDF]</a></p>
-<p>11. Huiting Xu, <b>Xi Jin</b>, Fanxin Kong, Qingxu Deng, Two Level Colocation Demand Response with Renewable Energy, <i>IEEE Transactions on Sustainable Computing</i>, 2019. <a href="papers/Xu_TSUSC19.pdf">[PDF]</a></p>
-<p>12. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Chi Xu, Peng Zeng, Lane scheduling around crossroads for edge computing based autonomous driving, <i>Journal of Systems Architecture</i>, 2019. <a href="papers/Xia_JSA19.pdf">[PDF]</a></p>
-<p>13. <b>Xi Jin</b>, Abusayeed Saifullah, Chenyang Lu, Peng Zeng, Real-Time Scheduling for Event-Triggered and Time-Triggered Flows in Industrial Wireless Sensor-Actuator Network, <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, 2019. <a href="papers/Jin_INFOCOM19.pdf">[PDF]</a></p>
-<p>14. <b>Xi Jin</b>, Nan Guan, Changqing Xia, Jintao Wang, Peng Zeng, Packet Aggregation Real-Time Scheduling for Large-Scale WIA-PA Industrial Wireless Sensor Networks, <i>ACM Transactions on Embedded Computing Systems</i>, 17(5): 1-19, Article 88, 2018. <a href="papers/Jin_TECS18.pdf">[PDF]</a></p>
-<p>15. Zhaowei Wang, Peng Zeng, Linghe Kong, Dong Li, <b>Xi Jin</b>, Node-identification-based Secure Time Synchronization in Industrial  Wireless Sensor Networks, <i>Sensors</i>, 18(8): 1-18, 2018. <a href="papers/Wang_Sensors18.pdf">[PDF]</a></p>
-<p>16. Ming Wan, Jiangyuan Yao, Yuan Jing, <b>Xi Jin</b>, Event-based anomaly detection for non-public industrial communication protocols in SDN-based control systems, <i>Computers, Materials and Continua</i>, 55(3): 447-463, 2018.</p>
-<p>17. Jintao Wang, Zhaowei Wang, Peng Zeng, <b>Xi Jin</b>, Dong Li, Ming Wang, Fanxin Kong. Software Defined Wi-V2G: A V2G Network Architecture, <i>IEEE Intelligent Transportation Systems Magazine</i>, 10(2): 167-179, 2018. <a href="papers/Wang_ITSM18.pdf">[PDF]</a></p>
-<p>18. <b>Xi Jin</b>, Huiting Xu, Changqing Xia, Jintao Wang and Peng Zeng. Convergecast Scheduling and Cost Optimization for Industrial Wireless Sensor Networks with Multiple Radio Interfaces, <i>Wireless Networks</i>, 24: 3205-3219, 2018. <a href="papers/Jin_WN18.pdf">[PDF]</a></p>
-<p>19. <b>Xi Jin</b>, Fanxin Kong, Linghe Kong, Wei Liu, Peng Zeng, Reliability and Temporality Optimization for Multiple Coexisting WirelessHART Networks in Industrial Environments, <i>IEEE Transactions on Industrial Electronics</i> 64(8): 6591 - 6602, 2017. <a href="papers/Jin_TIE17.pdf">[PDF]</a></p>
-<p>20. <b>Xi Jin</b>, Fanxin Kong, Linghe Kong, Huihui Wang, Changqing Xia, Peng Zeng and Qingxu Deng. A Hierarchical Data Transmission Framework for Industrial Wireless Sensor and Actuator Networks, <i>IEEE Transactions on Industrial Informatics </i> 13 (4): 2019-2029, 2017. <a href="papers/Jin_TII17.pdf">[PDF]</a></p>
-<p>21. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Jintao Wang, Peng Zeng, Transmission Scheduling for Mixed-critical MU-MIMO Industrial Cyber-Physical Systems, <i>International Journal of Distributed Sensor Networks</i>,  13(12): 1-13, 2017.</p>
+					<p>9. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Chi Xu, Peng Zeng, Heterogeneous Slot Scheduling for Real-time Industrial Wireless Sensor Networks, <i>Computer Networks</i>, 2019. <a href="papers/Xia_CN19.pdf">[PDF]</a></p>
+					<p>10. Peng Zeng, Zhaowei Wang, Zhengyi Jia, Linghe Kong, Dong Li, <b>Xi Jin</b>, Time-slotted software-defined industrial ethernet for real-time quality of service in industriay 4.0, <i>Future Generation Computer Systems</i>, 2019. <a href="papers/Wang_FGCS19.pdf">[PDF]</a></p>
+					<p>11. Huiting Xu, <b>Xi Jin</b>, Fanxin Kong, Qingxu Deng, Two Level Colocation Demand Response with Renewable Energy, <i>IEEE Transactions on Sustainable Computing</i>, 2019. <a href="papers/Xu_TSUSC19.pdf">[PDF]</a></p>
+					<p>12. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Chi Xu, Peng Zeng, Lane scheduling around crossroads for edge computing based autonomous driving, <i>Journal of Systems Architecture</i>, 2019. <a href="papers/Xia_JSA19.pdf">[PDF]</a></p>
+					<p>13. <b>Xi Jin</b>, Abusayeed Saifullah, Chenyang Lu, Peng Zeng, Real-Time Scheduling for Event-Triggered and Time-Triggered Flows in Industrial Wireless Sensor-Actuator Network, <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, 2019. <a href="papers/Jin_INFOCOM19.pdf">[PDF]</a></p>
+					<p>14. <b>Xi Jin</b>, Nan Guan, Changqing Xia, Jintao Wang, Peng Zeng, Packet Aggregation Real-Time Scheduling for Large-Scale WIA-PA Industrial Wireless Sensor Networks, <i>ACM Transactions on Embedded Computing Systems</i>, 17(5): 1-19, Article 88, 2018. <a href="papers/Jin_TECS18.pdf">[PDF]</a></p>
+					<p>15. Zhaowei Wang, Peng Zeng, Linghe Kong, Dong Li, <b>Xi Jin</b>, Node-identification-based Secure Time Synchronization in Industrial  Wireless Sensor Networks, <i>Sensors</i>, 18(8): 1-18, 2018. <a href="papers/Wang_Sensors18.pdf">[PDF]</a></p>
+					<p>16. Ming Wan, Jiangyuan Yao, Yuan Jing, <b>Xi Jin</b>, Event-based anomaly detection for non-public industrial communication protocols in SDN-based control systems, <i>Computers, Materials and Continua</i>, 55(3): 447-463, 2018.</p>
+					<p>17. Jintao Wang, Zhaowei Wang, Peng Zeng, <b>Xi Jin</b>, Dong Li, Ming Wang, Fanxin Kong. Software Defined Wi-V2G: A V2G Network Architecture, <i>IEEE Intelligent Transportation Systems Magazine</i>, 10(2): 167-179, 2018. <a href="papers/Wang_ITSM18.pdf">[PDF]</a></p>
+					<p>18. <b>Xi Jin</b>, Huiting Xu, Changqing Xia, Jintao Wang and Peng Zeng. Convergecast Scheduling and Cost Optimization for Industrial Wireless Sensor Networks with Multiple Radio Interfaces, <i>Wireless Networks</i>, 24: 3205-3219, 2018. <a href="papers/Jin_WN18.pdf">[PDF]</a></p>
+					<p>19. <b>Xi Jin</b>, Fanxin Kong, Linghe Kong, Wei Liu, Peng Zeng, Reliability and Temporality Optimization for Multiple Coexisting WirelessHART Networks in Industrial Environments, <i>IEEE Transactions on Industrial Electronics</i> 64(8): 6591 - 6602, 2017. <a href="papers/Jin_TIE17.pdf">[PDF]</a></p>
+					<p>20. <b>Xi Jin</b>, Fanxin Kong, Linghe Kong, Huihui Wang, Changqing Xia, Peng Zeng and Qingxu Deng. A Hierarchical Data Transmission Framework for Industrial Wireless Sensor and Actuator Networks, <i>IEEE Transactions on Industrial Informatics </i> 13 (4): 2019-2029, 2017. <a href="papers/Jin_TII17.pdf">[PDF]</a></p>
+					<p>21. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Jintao Wang, Peng Zeng, Transmission Scheduling for Mixed-critical MU-MIMO Industrial Cyber-Physical Systems, <i>International Journal of Distributed Sensor Networks</i>,  13(12): 1-13, 2017.</p>
 <p>22. Jintao Wang, <b>Xi Jin</b>, Peng Zeng, Ming Wan, Changqing Xia, Deployment Optimization for a Long-Distance Wireless Backhaul Network in Industrial CPS, <i>International Journal of Distributed Sensor Networks</i>, 13(11): 1-14, 2017.</p>
 <p>23. Changqing Xia, <b>Xi Jin</b>, Linghe Kong, Peng Zeng, Di Guan, Scheduling for Heterogeneous Industrial Networks‐Based on NB‐IoT Technology. <i>The 43rd Annual Conference of the IEEE Industrial Electronics Society</i>, 2017.</p>
 <p>24. Jintao Wang, <b>Xi Jin</b>, Peng Zeng, Changqing Xia, Ming Wan, A Power Control and Optimization Method for Burst Bandwidth Demand in Heterogeneous Industrial Wireless Networks. <i>The 43rd Annual Conference of the IEEE Industrial Electronics Society</i>, 2017.</p>
@@ -126,17 +143,18 @@ var _hmt = _hmt || [];
 			<section class="slide-wrapper" id="projects">
                     <div class="container py-lg-5">
 					<h1 class="w3_head mb-5">Projects</h1>
-<p>1. <b>Principal Investigator</b>, "Intelligent Interconnection of Things and Integrated Safetry and Security in Industrial Cyber-Physical Systems", National Natural Science Foundation of China, 2022-2026.</p>
-<p>2. <b>Principal Investigator</b>, "Self-adjusting industrial networks for flexible manufacturing systems", National Natural Science Foundation of China, 2020-2023.</p>
-<p>3. <b>Principal Investigator</b>, "Real-time scheduling for industrial 5G", Liaoning Provincial Natural Science Foundation of China, 2020-2022.</p>
-<p>4. <b>Participant</b>, "Architecture, collaborative optimization and intelligent decision of edge computing in the industrial Internet", Joint Funds of National Natural Science Foundation of China and Liaoning Science Foundation, 2020-2023.</p>
-<p>5. <b>Participant</b>, "Designing and operating edge-computing Devices for the industrial Internet", National Key Research and Development Program of China, 2019-2022.</p>
-<p>6. <b>Participant</b>, "Mixed-critical communication scheduling for industrial robots", Independent Subject of State Key Laboratory of Robotics, 2019-2021.</p>
-<p>7. <b>Principal Investigator</b>, Youth Innovation Promotion Association of the Chinese Academy of Sciences, 2017-2020.</p>
-<p>8. <b>Principal Investigator</b>, "Key techniques on industrial wireless systems for mixed-criticality requirements", National Natural Science Foundation of China, 2016-2018.</p>
-<p>9. <b>Principal Investigator</b>, "Research on the memory performance based on Network-on-Chips", Fundamental Research Funds for the Central Universities, 2010-2012.</p>
-<p>10. <b>Participant</b>, "Digital equipment embedded systems development platform and application based on reconfigurable computing", Liaoning Provincial Department of Education Innovation Team Project, 2012-2014.</p>
-<p>11. <b>Participant</b>, "Research on the design and analysis of real-time scheduling policies in multi-core systems", National Natural Science Foundation of China, 2010-2013.</p>      
+<p>1. <b>Principal Investigator</b>, "Intelligent Interconnection of Things and Integrated Safetry and Security in Industrial Cyber-Physical Systems", National Natural Science Foundation of China (Key Program), 2022-2026.</p>
+<p>2. <b>Principal Investigator</b>, Excellent member of Youth Innovation Promotion Association of Chinese Academy of Sciences, 2022-2024. </p>
+<p>3. <b>Principal Investigator</b>, "Self-adjusting industrial networks for flexible manufacturing systems", National Natural Science Foundation of China (General Program), 2020-2023.</p>
+<p>4. <b>Principal Investigator</b>, "Real-time scheduling for industrial 5G", Liaoning Provincial Natural Science Foundation of China, 2020-2022.</p>
+<p>5. <b>Participant</b>, "Architecture, collaborative optimization and intelligent decision of edge computing in the industrial Internet", Joint Funds of National Natural Science Foundation of China and Liaoning Science Foundation, 2020-2023.</p>
+<p>6. <b>Participant</b>, "Designing and operating edge-computing Devices for the industrial Internet", National Key Research and Development Program of China, 2019-2022.</p>
+<p>7. <b>Participant</b>, "Mixed-critical communication scheduling for industrial robots", Independent Subject of State Key Laboratory of Robotics, 2019-2021.</p>
+<p>8. <b>Principal Investigator</b>, Youth Innovation Promotion Association of the Chinese Academy of Sciences, 2017-2020.</p>
+<p>9. <b>Principal Investigator</b>, "Key techniques on industrial wireless systems for mixed-criticality requirements", National Natural Science Foundation of China, 2016-2018.</p>
+<p>10. <b>Principal Investigator</b>, "Research on the memory performance based on Network-on-Chips", Fundamental Research Funds for the Central Universities, 2010-2012.</p>
+<p>11. <b>Participant</b>, "Digital equipment embedded systems development platform and application based on reconfigurable computing", Liaoning Provincial Department of Education Innovation Team Project, 2012-2014.</p>
+<p>12. <b>Participant</b>, "Research on the design and analysis of real-time scheduling policies in multi-core systems", National Natural Science Foundation of China, 2010-2013.</p>      
                             <!-- .Row ends here -->
                         <!-- .Container ends here -->
                     </div>
