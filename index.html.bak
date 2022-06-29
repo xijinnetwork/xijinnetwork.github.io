@@ -74,7 +74,7 @@ var _hmt = _hmt || [];
             <div class="container py-lg-5">
                 <!--div class="mx-auto text-left"-->
                     <h1 class="w3_head mb-5">About me</h1>
-                   <p><b>Short Bio</b>: I’m currently a Professor at the Shenyang Institute of Automation, Chinese Academy of Sciences, China. I received my Ph.D. in Computer Science from the Northeastern University in 2013 under the supervision of <a href="http://www.neu-rtes.org/">Prof. Qingxu Deng</a>.</p>
+                   <p><b>Short Bio</b>: I’m currently a Professor at the <a href="http://english.sia.cas.cn/"  target="_blank">Shenyang Institute of Automation</a> <font size="1">(<a href="http://www.sia.cn" target="_blank">中文网站</a>)</font>, Chinese Academy of Sciences, China. I received my Ph.D. in Computer Science from the Northeastern University in 2013 under the supervision of <a href="http://www.neu-rtes.org/" target="_blank">Prof. Qingxu Deng</a>.</p>
                    <p><b>Research areas</b>: 5G, Time Sensitive Networks, Industrial Wireless Networks, Internet of Things and Cyber-Physical Systems.</p>
                 <!--/div-->
             </div>
@@ -84,13 +84,14 @@ var _hmt = _hmt || [];
             <div class="container py-lg-5">
                 <!--div class="mx-auto text-left"-->
                     <h1 class="w3_head mb-5">News</h1>
-					          <p><b>[Service]</b> Serve as the publicity chair of <a href="http://www.ieee-cybermatics.org/2022/icess/">ICESS 2022</a>. Welcome to submit your work!</p>
-										<p><b>[Service]</b> Serve as the guest editor of <a href="https://www.mdpi.com/journal/applsci/special_issues/industrial_internet">[Applied Sciences] Special Issue "Real-Time Systems and Industrial Internet of Things"</a>. Welcome to submit your work!</p>
+					          <p><b>[Service]</b> Serve as the publicity chair of <a href="http://www.ieee-cybermatics.org/2022/icess/"  target="_blank">ICESS 2022</a>. Welcome to submit your work!</p>
+										<p><b>[Service]</b> Serve as the guest editor of <a href="https://www.mdpi.com/journal/applsci/special_issues/industrial_internet"  target="_blank">[Applied Sciences] Special Issue "Real-Time Systems and Industrial Internet of Things"</a>. Welcome to submit your work!</p>
 										<p><b>[Paper]</b> A paper is accepted in Mathematics, 2022.</p>
 										<p><b>[News]</b> Became a senior member of China Computer Federation (CCF), 2022.</p>
 										<p><b>[News]</b> Became an excellent member of Youth Innovation Promotion Association of Chinese Academy of Sciences, 2021.</p>
-										<p><b>[Talk]</b> Real-time scheduling of industrial wireless networks based on multi-task scheduling theory [CNCC 2021]</p>
+										<p><b>[Talk]</b> Real-time scheduling of industrial wireless networks based on multi-task scheduling theory, CNCC 2021.</p>
 										<p><b>[Paper]</b> A paper is accepted in IEEE Internet of Things Journal, 2021.</p>
+										<p><b>[Project]</b> My key project is supported by NSFC, 2021. </p>
                 <!--/div-->
             </div>
            </section>
