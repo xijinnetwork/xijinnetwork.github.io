@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SchDataSet</title>
+    <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4035cd92f6bb079afc72226ed0ff8029";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+  </head>
+  <body>
+    <p style="text-align: center;"><span style="font-family: &quot;arial&quot;, sans-serif; font-size: 24px; font-weight: bold;">The DataSet for Hard Real-time Scheduling</span></p>
+<p><br></p>
+<p><span style="font-family: &quot;arial&quot;, sans-serif;">I am trying to adopt supervised learning to solve real-time scheduling problems, but did not find any related training dataset. So, I create a C library (GOS.dll <a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">download</a>) to generate optimal solutions and train models using them. If you are interested in GOS.dll or the training datasets, please contact me [xijin at ieee dot org].</span><br></p>
+<p><span style="color:#08D">* Since the program needs to find optimal solutions, its execution time is quite long.</span><br></p>
+<!--table style="border: 1px; cellspacing: 0px; width: 958px; height: 146px;"-->
+<table border="1" cellspacing="0" align=center>
+	<tr>
+  	<td style="width: 40%; text-align: center; border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);"><span style="font-family: &quot;arial&quot;, sans-serif; font-size: 16px; font-weight: bold">Problem Statement</span>
+                    <div style="color:rgba(0,0,0,0.01);width:0;height:0">&nbsp;<br></div>
+    </td>
+    <td style="width: 50%; text-align: center; border-color: rgb(0, 0, 0);"><span style="font-family: &quot;arial&quot;, sans-serif; font-size: 16px; font-weight: bold">the Function in GOS.dll</span></td>
+    <td style="width: 10%; text-align: center; border-color: rgb(0, 0, 0);"><span style="font-family: &quot;arial&quot;, sans-serif; font-size: 16px; font-weight: bold">DataSet</span></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Implicit||Allocation||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerImpAllPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PIAP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Implicit||Allocation||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerImpAllNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PIAN.zip</a><br></td>
+ 	</tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Implicit||Fixed priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerImpFixPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PIFP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Implicit||Fixed priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerImpFixNonPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PIFN.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Implicit||Dynamic priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerImpDynPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PIDP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Implicit||Dynamic priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerImpDynNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PIDN.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Constrainted||Allocation||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerConAllPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PCAP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Constrainted||Allocation||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerConAllNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PCAN.zip</a><br></td>
+ 	</tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Constrainted||Fixed priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerConFixPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PCFP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Constrainted||Fixed priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerConFixNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PCFN.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Constrainted||Dynamic priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerConDynPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PCDP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Periodic||Constrainted||Dynamic priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool PerConDynNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">PCDN.zip</a><br></td>
+  </tr>  
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Allocation||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoImpAllPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIAP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Allocation||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoImpAllNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIAN.zip</a><br></td>
+ 	</tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Fixed priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoImpFixPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIFP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Fixed priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoImpFixNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIFN.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Dynamic priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoImpDynPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIDP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Dynamic priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoImpDynNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIDN.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Allocation||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoConAllPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCAP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Allocation||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoConAllNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCAN.zip</a><br></td>
+ 	</tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Fixed priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoConFixPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCFP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Fixed priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoConFixNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCFN.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Dynamic priority||Preemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoConDynPre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCDP.zip</a><br></td>
+  </tr>
+  <tr>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Dynamic priority||Nonpreemptive<br></td>
+    <td style="width: 50%;">&nbsp;bool SpoConDynNonpre(unsigned int #processors, unsigned int #tasks)<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCDN.zip</a><br></td>
+  </tr>    
+</table>
+<p><br></p>
+  </body>
+</html>
