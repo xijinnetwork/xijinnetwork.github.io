@@ -9,7 +9,7 @@ var _hmt = _hmt || [];
 
   </head>
   <body>
-    <p style="text-align: center;"><span style="font-family: &quot;arial&quot;, sans-serif; font-size: 24px; font-weight: bold;">DataSets for 5G NR Scheduling</span></p>
+    <p style="text-align: center;"><span style="font-family: &quot;arial&quot;, sans-serif; font-size: 24px; font-weight: bold;">The DataSet for Hard Real-time Scheduling</span></p>
 <p><br></p>
 <p><span style="font-family: &quot;arial&quot;, sans-serif;">Since our paper is not yet published, we provide <a href="https://xijinnetwork.github.io/dataset_V40M9T2L24P40.txt"> a simple dataset </a> here. If you are interested in our work, please contact me (xijin at ieee dot org).</span><br></p>
 <!--table style="border: 1px; cellspacing: 0px; width: 958px; height: 146px;"-->
@@ -69,52 +69,52 @@ var _hmt = _hmt || [];
     <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">40-9-32-40-2.zip</a><br></td>
   </tr>  
   <tr>
-  	<td style="width: 40%;">&nbsp;{20,4,7,40,2}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">20-4-7-40-2.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Allocation||Preemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIAP.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{22,4,7,40,2}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">22-4-7-40-2.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Allocation||Nonpreemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIAN.zip</a><br></td>
  	</tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{24,4,7,40,2}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">24-4-7-40-2.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Fixed priority||Preemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIFP.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{26,4,7,40,2}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">26-4-7-40-2.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Fixed priority||Nonpreemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIFN.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{28,4,7,40,2}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">28-4-7-40-2.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Dynamic priority||Preemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIDP.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{30,4,7,40,2}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">30-4-7-40-2.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Implicit||Dynamic priority||Nonpreemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SIDN.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{20,4,7,40,10}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">20-4-7-40-10.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Allocation||Preemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCAP.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{22,4,7,40,10}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">22-4-7-40-10.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Allocation||Nonpreemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCAN.zip</a><br></td>
  	</tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{24,4,7,40,10}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">24-4-7-40-10.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Fixed priority||Preemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCFP.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{26,4,7,40,10}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">26-4-7-40-10.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Fixed priority||Nonpreemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCFN.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{28,4,7,40,10}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">28-4-7-40-10.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Dynamic priority||Preemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCDP.zip</a><br></td>
   </tr>
   <tr>
-  	<td style="width: 40%;">&nbsp;{30,4,7,40,10}<br></td>
-    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">30-4-7-40-10.zip</a><br></td>
+  	<td style="width: 40%;">&nbsp;Sporadic||Constrainted||Dynamic priority||Nonpreemptive<br></td>
+    <td style="width: 10%;">&nbsp;<a href="#" onclick="javascript:alert('Please contact me [xijin at ieee dot org].')">SCDN.zip</a><br></td>
   </tr>    
 </table>
 <p><br></p>
